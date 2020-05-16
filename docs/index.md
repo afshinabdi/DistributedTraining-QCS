@@ -16,5 +16,5 @@ title: {{ site.name }}
 ## III. How to Cite?
 For a reference to this work, please cite the following paper:
 
-* [**Conference Paper:**] A. Abdi and F. Fekri, ``Quantized Compressive Sampling of Stochastic Gradients for Efficient Communication in Distributed Deep Learning,'' in *34th AAAI Conference on Artificial Intelligence*, 2020
+* [**Conference Paper:**] A. Abdi and F. Fekri, "Quantized Compressive Sampling of Stochastic Gradients for Efficient Communication in Distributed Deep Learning," in *34th AAAI Conference on Artificial Intelligence*, 2020
 
