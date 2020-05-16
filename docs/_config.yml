@@ -1,0 +1,9 @@
+title: Quantized Compressive Sampling
+tagline: [Efficient Compression and Communication for Distributed Deep Learning]
+baseurl: "/DistributedTraining-QCS"
+markdown: kramdown
+
+# About/contact
+author:
+  name:       Afshin Abdi
+  url:        https://afshinabdi.github.io
